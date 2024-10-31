@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "likebox2024"
-  }
+    "default": "likebox2024",
+    "lb": "likebox2024"
+  },
+  "targets": {},
+  "etags": {}
 }
